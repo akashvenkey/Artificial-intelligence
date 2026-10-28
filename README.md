@@ -1,6 +1,15 @@
 ﻿<div align="center">
 
+<a href="https://github.com/akashvenkey/Artificial-intelligence">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=042F2E,0F766E,2DD4BF&height=220&section=header&text=Sustainable%20Agri%20AI&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Intelligent%20Resource%20Optimization%2C%20Eco-Farming%20%26%20Predictive%20Systems&descSize=16&descAlignY=60&descAlign=50" alt="Sustainable Agri AI Banner" width="100%" />
+</a>
+
+
+
+### 🔗 **Project Source Link:** [https://github.com/akashvenkey/Artificial-intelligence](https://github.com/akashvenkey/Artificial-intelligence)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-github.com%2Fakashvenkey%2FArtificial-intelligence-blue?style=for-the-badge&logo=github)](https://github.com/akashvenkey/Artificial-intelligence)
+[![Clone URL](https://img.shields.io/badge/Clone-git_clone-success?style=for-the-badge&logo=git)](https://github.com/akashvenkey/Artificial-intelligence.git)
 
 [![Domain](https://img.shields.io/badge/Domain-Sustainable%20Agriculture-2DD4BF?style=for-the-badge&logo=tree&logoColor=white)](https://github.com/akashvenkey/Artificial-intelligence)
 [![AI & IoT](https://img.shields.io/badge/Technology-AI%20%7C%20IoT%20%7C%20Precision%20Ag-0F766E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/akashvenkey/Artificial-intelligence)
@@ -156,6 +165,15 @@ Collaborations on precision agriculture, AgTech data systems, and environmental 
 
 <div align="center">
 
+<a href="https://github.com/akashvenkey/Artificial-intelligence">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=042F2E,0F766E,2DD4BF&height=100&section=footer" alt="Footer Banner" width="100%" />
+</a>
+
+
+
+### 🔗 **Project Source Link:** [https://github.com/akashvenkey/Artificial-intelligence](https://github.com/akashvenkey/Artificial-intelligence)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-github.com%2Fakashvenkey%2FArtificial-intelligence-blue?style=for-the-badge&logo=github)](https://github.com/akashvenkey/Artificial-intelligence)
+[![Clone URL](https://img.shields.io/badge/Clone-git_clone-success?style=for-the-badge&logo=git)](https://github.com/akashvenkey/Artificial-intelligence.git)
 
 </div>
