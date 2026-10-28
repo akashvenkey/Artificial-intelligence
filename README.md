@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
 <a href="https://github.com/akashvenkey/Artificial-intelligence">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=042F2E,0F766E,2DD4BF&height=220&section=header&text=Sustainable%20Agri%20AI&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Intelligent%20Resource%20Optimization%2C%20Eco-Farming%20%26%20Predictive%20Systems&descSize=16&descAlignY=60&descAlign=50" alt="Sustainable Agri AI Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:042F2E,50:0F766E,100:2DD4BF&height=220&section=header&text=Sustainable%20Agri%20AI&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Intelligent%20Resource%20Optimization%2C%20Eco-Farming%20and%20Predictive%20Systems&descSize=16&descAlignY=60&descAlign=50" alt="Sustainable Agri AI Banner" width="100%" />
 </a>
 
 
@@ -166,7 +166,7 @@ Collaborations on precision agriculture, AgTech data systems, and environmental 
 <div align="center">
 
 <a href="https://github.com/akashvenkey/Artificial-intelligence">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=042F2E,0F766E,2DD4BF&height=100&section=footer" alt="Footer Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:042F2E,50:0F766E,100:2DD4BF&height=100&section=footer" alt="Footer Banner" width="100%" />
 </a>
 
 
